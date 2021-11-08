@@ -1,4 +1,4 @@
-create schema demo
+create schema demo;
 -- Create Table  Hello World
 create table hello_world
 ( first_name varchar
